@@ -3,3 +3,6 @@ D:\110117051\LapTrinhUngDung\Bai01\Bai02\bin\Debug\Bai02.exe
 D:\110117051\LapTrinhUngDung\Bai01\Bai02\bin\Debug\Bai02.pdb
 D:\110117051\LapTrinhUngDung\Bai01\Bai02\obj\Debug\Bai02.exe
 D:\110117051\LapTrinhUngDung\Bai01\Bai02\obj\Debug\Bai02.pdb
+D:\110117051\LapTrinhUngDung\Buoi 8_1_2020\Bai01\Bai02\bin\Debug\Bai02.exe.config
+D:\110117051\LapTrinhUngDung\Buoi 8_1_2020\Bai01\Bai02\obj\Debug\Bai02.exe
+D:\110117051\LapTrinhUngDung\Buoi 8_1_2020\Bai01\Bai02\obj\Debug\Bai02.pdb
