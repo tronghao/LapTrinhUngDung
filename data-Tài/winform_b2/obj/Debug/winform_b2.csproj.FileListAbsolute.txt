@@ -1,0 +1,38 @@
+C:\Users\DELL\source\repos\winform_b2\bin\Debug\winform_b2.exe.config
+C:\Users\DELL\source\repos\winform_b2\bin\Debug\winform_b2.exe
+C:\Users\DELL\source\repos\winform_b2\bin\Debug\winform_b2.pdb
+C:\Users\DELL\source\repos\winform_b2\obj\Debug\winform_b2.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\winform_b2\obj\Debug\winform_b2.Form1.resources
+C:\Users\DELL\source\repos\winform_b2\obj\Debug\winform_b2.Properties.Resources.resources
+C:\Users\DELL\source\repos\winform_b2\obj\Debug\winform_b2.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\winform_b2\obj\Debug\winform_b2.exe
+C:\Users\DELL\source\repos\winform_b2\obj\Debug\winform_b2.pdb
+C:\Users\DELL\Desktop\Lap Trinh UD Win\winform_b2\bin\Debug\winform_b2.exe.config
+C:\Users\DELL\Desktop\Lap Trinh UD Win\winform_b2\bin\Debug\winform_b2.exe
+C:\Users\DELL\Desktop\Lap Trinh UD Win\winform_b2\bin\Debug\winform_b2.pdb
+C:\Users\DELL\Desktop\Lap Trinh UD Win\winform_b2\obj\Debug\winform_b2.csprojAssemblyReference.cache
+C:\Users\DELL\Desktop\Lap Trinh UD Win\winform_b2\obj\Debug\winform_b2.Form1.resources
+C:\Users\DELL\Desktop\Lap Trinh UD Win\winform_b2\obj\Debug\winform_b2.Properties.Resources.resources
+C:\Users\DELL\Desktop\Lap Trinh UD Win\winform_b2\obj\Debug\winform_b2.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\Lap Trinh UD Win\winform_b2\obj\Debug\winform_b2.exe
+C:\Users\DELL\Desktop\Lap Trinh UD Win\winform_b2\obj\Debug\winform_b2.pdb
+C:\Users\DELL\Desktop\Lap Trinh UD Win\winform_b2\bin\Debug\Interop.WMPLib.dll
+C:\Users\DELL\Desktop\Lap Trinh UD Win\winform_b2\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\DELL\Desktop\Lap Trinh UD Win\winform_b2\obj\Debug\Interop.WMPLib.dll
+C:\Users\DELL\Desktop\Lap Trinh UD Win\winform_b2\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\DELL\Desktop\Lap Trinh UD Win\winform_b2\obj\Debug\winform_b2.csproj.ResolveComReference.cache
+C:\Users\DELL\Desktop\2019-2020\HKII\Lap Trinh UD Win\winform_b2\bin\Debug\winform_b2.exe.config
+C:\Users\DELL\Desktop\2019-2020\HKII\Lap Trinh UD Win\winform_b2\bin\Debug\winform_b2.exe
+C:\Users\DELL\Desktop\2019-2020\HKII\Lap Trinh UD Win\winform_b2\bin\Debug\winform_b2.pdb
+C:\Users\DELL\Desktop\2019-2020\HKII\Lap Trinh UD Win\winform_b2\bin\Debug\Interop.WMPLib.dll
+C:\Users\DELL\Desktop\2019-2020\HKII\Lap Trinh UD Win\winform_b2\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\DELL\Desktop\2019-2020\HKII\Lap Trinh UD Win\winform_b2\obj\Debug\winform_b2.csprojAssemblyReference.cache
+C:\Users\DELL\Desktop\2019-2020\HKII\Lap Trinh UD Win\winform_b2\obj\Debug\Interop.WMPLib.dll
+C:\Users\DELL\Desktop\2019-2020\HKII\Lap Trinh UD Win\winform_b2\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\DELL\Desktop\2019-2020\HKII\Lap Trinh UD Win\winform_b2\obj\Debug\winform_b2.csproj.ResolveComReference.cache
+C:\Users\DELL\Desktop\2019-2020\HKII\Lap Trinh UD Win\winform_b2\obj\Debug\winform_b2.Form1.resources
+C:\Users\DELL\Desktop\2019-2020\HKII\Lap Trinh UD Win\winform_b2\obj\Debug\winform_b2.Properties.Resources.resources
+C:\Users\DELL\Desktop\2019-2020\HKII\Lap Trinh UD Win\winform_b2\obj\Debug\winform_b2.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\2019-2020\HKII\Lap Trinh UD Win\winform_b2\obj\Debug\winform_b2.exe
+C:\Users\DELL\Desktop\2019-2020\HKII\Lap Trinh UD Win\winform_b2\obj\Debug\winform_b2.pdb
+C:\Users\DELL\Desktop\2019-2020\HKII\Lap Trinh UD Win\winform_b2\obj\Debug\winform_b2.frm_phu.resources

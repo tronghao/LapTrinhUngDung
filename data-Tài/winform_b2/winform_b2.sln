@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "winform_b2", "winform_b2.csproj", "{E250308E-415A-4E55-BB8A-298587718BBE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "baitap2", "..\baitap2\baitap2.csproj", "{4270CD08-1ACE-4F3C-83E0-92EDF7BE19A2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E250308E-415A-4E55-BB8A-298587718BBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E250308E-415A-4E55-BB8A-298587718BBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E250308E-415A-4E55-BB8A-298587718BBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E250308E-415A-4E55-BB8A-298587718BBE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4270CD08-1ACE-4F3C-83E0-92EDF7BE19A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4270CD08-1ACE-4F3C-83E0-92EDF7BE19A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4270CD08-1ACE-4F3C-83E0-92EDF7BE19A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4270CD08-1ACE-4F3C-83E0-92EDF7BE19A2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BD2A21EF-CFA8-47AA-BCC5-5B5BFD7C3CAB}
+	EndGlobalSection
+EndGlobal

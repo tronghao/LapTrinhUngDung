@@ -1,0 +1,10 @@
+D:\110117065_HK2_N3\LapTrinhUDWindow\BaiTap\Bt3_22-04-20\Bt3_22-04-20\bin\Debug\Bt3_22-04-20.exe.config
+D:\110117065_HK2_N3\LapTrinhUDWindow\BaiTap\Bt3_22-04-20\Bt3_22-04-20\bin\Debug\Bt3_22-04-20.exe
+D:\110117065_HK2_N3\LapTrinhUDWindow\BaiTap\Bt3_22-04-20\Bt3_22-04-20\bin\Debug\Bt3_22-04-20.pdb
+D:\110117065_HK2_N3\LapTrinhUDWindow\BaiTap\Bt3_22-04-20\Bt3_22-04-20\obj\Debug\Bt3_22-04-20.csprojResolveAssemblyReference.cache
+D:\110117065_HK2_N3\LapTrinhUDWindow\BaiTap\Bt3_22-04-20\Bt3_22-04-20\obj\Debug\Bt3_22_04_20.Form1.resources
+D:\110117065_HK2_N3\LapTrinhUDWindow\BaiTap\Bt3_22-04-20\Bt3_22-04-20\obj\Debug\Bt3_22_04_20.frmKhachHang.resources
+D:\110117065_HK2_N3\LapTrinhUDWindow\BaiTap\Bt3_22-04-20\Bt3_22-04-20\obj\Debug\Bt3_22_04_20.Properties.Resources.resources
+D:\110117065_HK2_N3\LapTrinhUDWindow\BaiTap\Bt3_22-04-20\Bt3_22-04-20\obj\Debug\Bt3_22-04-20.csproj.GenerateResource.Cache
+D:\110117065_HK2_N3\LapTrinhUDWindow\BaiTap\Bt3_22-04-20\Bt3_22-04-20\obj\Debug\Bt3_22-04-20.exe
+D:\110117065_HK2_N3\LapTrinhUDWindow\BaiTap\Bt3_22-04-20\Bt3_22-04-20\obj\Debug\Bt3_22-04-20.pdb

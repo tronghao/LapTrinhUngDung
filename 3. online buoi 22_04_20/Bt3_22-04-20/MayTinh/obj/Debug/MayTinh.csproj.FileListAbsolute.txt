@@ -1,0 +1,7 @@
+D:\110117065_HK2_N3\LapTrinhUDWindow\BaiTap\Bt3_22-04-20\MayTinh\bin\Debug\MayTinh.exe.config
+D:\110117065_HK2_N3\LapTrinhUDWindow\BaiTap\Bt3_22-04-20\MayTinh\bin\Debug\MayTinh.exe
+D:\110117065_HK2_N3\LapTrinhUDWindow\BaiTap\Bt3_22-04-20\MayTinh\bin\Debug\MayTinh.pdb
+D:\110117065_HK2_N3\LapTrinhUDWindow\BaiTap\Bt3_22-04-20\MayTinh\obj\Debug\MayTinh.Properties.Resources.resources
+D:\110117065_HK2_N3\LapTrinhUDWindow\BaiTap\Bt3_22-04-20\MayTinh\obj\Debug\MayTinh.csproj.GenerateResource.Cache
+D:\110117065_HK2_N3\LapTrinhUDWindow\BaiTap\Bt3_22-04-20\MayTinh\obj\Debug\MayTinh.exe
+D:\110117065_HK2_N3\LapTrinhUDWindow\BaiTap\Bt3_22-04-20\MayTinh\obj\Debug\MayTinh.pdb

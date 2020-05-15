@@ -1,0 +1,48 @@
+switch (e.KeyValue)
+            {
+                case 96:
+                    btn0_Click(sender, e);
+                    break;
+                case 97:
+                    btn1_Click(sender, e);
+                    break;
+                case 98:
+                    btn2_Click(sender, e);
+                    break;
+                case 99:
+                    btn3_Click(sender, e);
+                    break;
+                case 100:
+                    btn4_Click(sender, e);
+                    break;
+                case 101:
+                    btn5_Click(sender, e);
+                    break;
+                case 102:
+                    btn6_Click(sender, e);
+                    break;
+                case 103:
+                    btn7_Click(sender, e);
+                    break;
+                case 104:
+                    btn8_Click(sender, e);
+                    break;
+                case 105:
+                    btn9_Click(sender, e);
+                    break;
+                case 107:
+                    btncong_Click(sender, e);
+                    break;
+                case 109:
+                    btntru_Click(sender, e);
+                    break;
+                case 106:
+                    btnnhan_Click(sender, e);
+                    break;
+                case 111:
+                    btnchia_Click(sender, e);
+                    break;
+                case 108:
+                    btnbang_Click(sender, e);
+                    break;
+            }

@@ -1,0 +1,6 @@
+D:\110117051\LapTrinhUngDung\Buoi 8_1_2020\Bai01\Bai03\bin\Debug\Bai03.exe.config
+D:\110117051\LapTrinhUngDung\Buoi 8_1_2020\Bai01\Bai03\obj\Debug\Bai03.csprojResolveAssemblyReference.cache
+D:\110117051\LapTrinhUngDung\Buoi 8_1_2020\Bai01\Bai03\bin\Debug\Bai03.exe
+D:\110117051\LapTrinhUngDung\Buoi 8_1_2020\Bai01\Bai03\bin\Debug\Bai03.pdb
+D:\110117051\LapTrinhUngDung\Buoi 8_1_2020\Bai01\Bai03\obj\Debug\Bai03.exe
+D:\110117051\LapTrinhUngDung\Buoi 8_1_2020\Bai01\Bai03\obj\Debug\Bai03.pdb

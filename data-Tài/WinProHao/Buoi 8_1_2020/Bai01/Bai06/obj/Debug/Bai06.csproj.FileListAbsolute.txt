@@ -1,0 +1,5 @@
+D:\110117051\LapTrinhUngDung\Buoi 8_1_2020\Bai01\Bai06\bin\Debug\Bai06.exe.config
+D:\110117051\LapTrinhUngDung\Buoi 8_1_2020\Bai01\Bai06\bin\Debug\Bai06.exe
+D:\110117051\LapTrinhUngDung\Buoi 8_1_2020\Bai01\Bai06\bin\Debug\Bai06.pdb
+D:\110117051\LapTrinhUngDung\Buoi 8_1_2020\Bai01\Bai06\obj\Debug\Bai06.exe
+D:\110117051\LapTrinhUngDung\Buoi 8_1_2020\Bai01\Bai06\obj\Debug\Bai06.pdb

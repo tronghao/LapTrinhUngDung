@@ -1,0 +1,13 @@
+D:\110117065_HK2_N3\LapTrinhUDWindow\BaiTap\Bt3_22-04-20\Bt3_22-04-20\bin\Debug\Bt3_22-04-20.exe.config
+D:\110117065_HK2_N3\LapTrinhUDWindow\BaiTap\Bt3_22-04-20\Bt3_22-04-20\obj\Debug\Bt3_22-04-20.exe
+D:\110117065_HK2_N3\LapTrinhUDWindow\BaiTap\Bt3_22-04-20\Bt3_22-04-20\obj\Debug\Bt3_22-04-20.pdb
+E:\GOC HOC TAP\Cong Nghe Thong Tin\HKVI\lap trinh ung dung windows\3. online buoi 22_04_20\Bt3_22-04-20\Bt3_22-04-20\bin\Debug\Bt3_22-04-20.exe.config
+E:\GOC HOC TAP\Cong Nghe Thong Tin\HKVI\lap trinh ung dung windows\3. online buoi 22_04_20\Bt3_22-04-20\Bt3_22-04-20\bin\Debug\Bt3_22-04-20.exe
+E:\GOC HOC TAP\Cong Nghe Thong Tin\HKVI\lap trinh ung dung windows\3. online buoi 22_04_20\Bt3_22-04-20\Bt3_22-04-20\bin\Debug\Bt3_22-04-20.pdb
+E:\GOC HOC TAP\Cong Nghe Thong Tin\HKVI\lap trinh ung dung windows\3. online buoi 22_04_20\Bt3_22-04-20\Bt3_22-04-20\obj\Debug\KhachHang.csprojResolveAssemblyReference.cache
+E:\GOC HOC TAP\Cong Nghe Thong Tin\HKVI\lap trinh ung dung windows\3. online buoi 22_04_20\Bt3_22-04-20\Bt3_22-04-20\obj\Debug\Bt3_22_04_20.Form1.resources
+E:\GOC HOC TAP\Cong Nghe Thong Tin\HKVI\lap trinh ung dung windows\3. online buoi 22_04_20\Bt3_22-04-20\Bt3_22-04-20\obj\Debug\Bt3_22_04_20.frmKhachHang.resources
+E:\GOC HOC TAP\Cong Nghe Thong Tin\HKVI\lap trinh ung dung windows\3. online buoi 22_04_20\Bt3_22-04-20\Bt3_22-04-20\obj\Debug\Bt3_22_04_20.Properties.Resources.resources
+E:\GOC HOC TAP\Cong Nghe Thong Tin\HKVI\lap trinh ung dung windows\3. online buoi 22_04_20\Bt3_22-04-20\Bt3_22-04-20\obj\Debug\KhachHang.csproj.GenerateResource.Cache
+E:\GOC HOC TAP\Cong Nghe Thong Tin\HKVI\lap trinh ung dung windows\3. online buoi 22_04_20\Bt3_22-04-20\Bt3_22-04-20\obj\Debug\Bt3_22-04-20.exe
+E:\GOC HOC TAP\Cong Nghe Thong Tin\HKVI\lap trinh ung dung windows\3. online buoi 22_04_20\Bt3_22-04-20\Bt3_22-04-20\obj\Debug\Bt3_22-04-20.pdb
