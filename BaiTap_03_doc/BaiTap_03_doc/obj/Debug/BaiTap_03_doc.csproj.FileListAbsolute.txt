@@ -1,0 +1,10 @@
+D:\110117051\BaiTap_03_doc\BaiTap_03_doc\bin\Debug\BaiTap_03_doc.exe.config
+D:\110117051\BaiTap_03_doc\BaiTap_03_doc\bin\Debug\BaiTap_03_doc.exe
+D:\110117051\BaiTap_03_doc\BaiTap_03_doc\bin\Debug\BaiTap_03_doc.pdb
+D:\110117051\BaiTap_03_doc\BaiTap_03_doc\obj\Debug\BaiTap_03_doc.csprojResolveAssemblyReference.cache
+D:\110117051\BaiTap_03_doc\BaiTap_03_doc\obj\Debug\BaiTap_03_doc.Form1.resources
+D:\110117051\BaiTap_03_doc\BaiTap_03_doc\obj\Debug\BaiTap_03_doc.Properties.Resources.resources
+D:\110117051\BaiTap_03_doc\BaiTap_03_doc\obj\Debug\BaiTap_03_doc.xu_ly_them.resources
+D:\110117051\BaiTap_03_doc\BaiTap_03_doc\obj\Debug\BaiTap_03_doc.csproj.GenerateResource.Cache
+D:\110117051\BaiTap_03_doc\BaiTap_03_doc\obj\Debug\BaiTap_03_doc.exe
+D:\110117051\BaiTap_03_doc\BaiTap_03_doc\obj\Debug\BaiTap_03_doc.pdb

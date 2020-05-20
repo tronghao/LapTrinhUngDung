@@ -1,0 +1,9 @@
+D:\110117051\BaiTap_03_doc\Calculator\bin\Debug\Calculator.exe.config
+D:\110117051\BaiTap_03_doc\Calculator\bin\Debug\Calculator.exe
+D:\110117051\BaiTap_03_doc\Calculator\bin\Debug\Calculator.pdb
+D:\110117051\BaiTap_03_doc\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+D:\110117051\BaiTap_03_doc\Calculator\obj\Debug\Calculator.Form1.resources
+D:\110117051\BaiTap_03_doc\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+D:\110117051\BaiTap_03_doc\Calculator\obj\Debug\Calculator.csproj.GenerateResource.Cache
+D:\110117051\BaiTap_03_doc\Calculator\obj\Debug\Calculator.exe
+D:\110117051\BaiTap_03_doc\Calculator\obj\Debug\Calculator.pdb
