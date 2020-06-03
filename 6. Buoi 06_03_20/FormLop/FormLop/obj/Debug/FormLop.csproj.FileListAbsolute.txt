@@ -1,0 +1,9 @@
+D:\110117051\LapTrinhUngDung\6. Buoi 06_03_20\FormLop\FormLop\bin\Debug\FormLop.exe.config
+D:\110117051\LapTrinhUngDung\6. Buoi 06_03_20\FormLop\FormLop\bin\Debug\FormLop.exe
+D:\110117051\LapTrinhUngDung\6. Buoi 06_03_20\FormLop\FormLop\bin\Debug\FormLop.pdb
+D:\110117051\LapTrinhUngDung\6. Buoi 06_03_20\FormLop\FormLop\obj\Debug\FormLop.csprojResolveAssemblyReference.cache
+D:\110117051\LapTrinhUngDung\6. Buoi 06_03_20\FormLop\FormLop\obj\Debug\FormLop.Form1.resources
+D:\110117051\LapTrinhUngDung\6. Buoi 06_03_20\FormLop\FormLop\obj\Debug\FormLop.Properties.Resources.resources
+D:\110117051\LapTrinhUngDung\6. Buoi 06_03_20\FormLop\FormLop\obj\Debug\FormLop.csproj.GenerateResource.Cache
+D:\110117051\LapTrinhUngDung\6. Buoi 06_03_20\FormLop\FormLop\obj\Debug\FormLop.exe
+D:\110117051\LapTrinhUngDung\6. Buoi 06_03_20\FormLop\FormLop\obj\Debug\FormLop.pdb

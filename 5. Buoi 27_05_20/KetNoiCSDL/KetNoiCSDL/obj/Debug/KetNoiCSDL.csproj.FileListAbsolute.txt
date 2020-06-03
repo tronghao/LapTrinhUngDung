@@ -1,0 +1,9 @@
+D:\110117051\LapTrinhUngDung\5. Buoi 27_05_20\KetNoiCSDL\KetNoiCSDL\bin\Debug\KetNoiCSDL.exe.config
+D:\110117051\LapTrinhUngDung\5. Buoi 27_05_20\KetNoiCSDL\KetNoiCSDL\bin\Debug\KetNoiCSDL.exe
+D:\110117051\LapTrinhUngDung\5. Buoi 27_05_20\KetNoiCSDL\KetNoiCSDL\bin\Debug\KetNoiCSDL.pdb
+D:\110117051\LapTrinhUngDung\5. Buoi 27_05_20\KetNoiCSDL\KetNoiCSDL\obj\Debug\KetNoiCSDL.csprojResolveAssemblyReference.cache
+D:\110117051\LapTrinhUngDung\5. Buoi 27_05_20\KetNoiCSDL\KetNoiCSDL\obj\Debug\KetNoiCSDL.Form1.resources
+D:\110117051\LapTrinhUngDung\5. Buoi 27_05_20\KetNoiCSDL\KetNoiCSDL\obj\Debug\KetNoiCSDL.Properties.Resources.resources
+D:\110117051\LapTrinhUngDung\5. Buoi 27_05_20\KetNoiCSDL\KetNoiCSDL\obj\Debug\KetNoiCSDL.csproj.GenerateResource.Cache
+D:\110117051\LapTrinhUngDung\5. Buoi 27_05_20\KetNoiCSDL\KetNoiCSDL\obj\Debug\KetNoiCSDL.exe
+D:\110117051\LapTrinhUngDung\5. Buoi 27_05_20\KetNoiCSDL\KetNoiCSDL\obj\Debug\KetNoiCSDL.pdb
