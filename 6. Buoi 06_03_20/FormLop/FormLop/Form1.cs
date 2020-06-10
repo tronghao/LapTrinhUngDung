@@ -84,5 +84,19 @@ namespace FormLop
         {
             hienThiDuLieu();
         }
+
+        private void cậpNhậtLớpToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Form1 frm_lop = new Form1();
+            this.Visible = false;
+            frm_lop.Show();
+        }
+
+        private void cậpNhậtSinhViênToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            FormSV frm_sv = new FormSV();
+            this.Visible = false;
+            frm_sv.Show();
+        }
     }
 }

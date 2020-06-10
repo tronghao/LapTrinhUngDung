@@ -15,7 +15,7 @@ namespace FormLop
         public tvkn_csdl()
         {
             sqlketnoi = new SqlConnection();
-            string chuoiketnoi = "Data Source=.;Initial Catalog=QLSV;Integrated Security=True";
+            string chuoiketnoi = "Data Source=.;Initial Catalog=qlsv;Integrated Security=True";
             sqlketnoi.ConnectionString = chuoiketnoi;
             sqllenh = new SqlCommand();
         }

@@ -7,3 +7,4 @@ D:\110117051\LapTrinhUngDung\6. Buoi 06_03_20\FormLop\FormLop\obj\Debug\FormLop.
 D:\110117051\LapTrinhUngDung\6. Buoi 06_03_20\FormLop\FormLop\obj\Debug\FormLop.csproj.GenerateResource.Cache
 D:\110117051\LapTrinhUngDung\6. Buoi 06_03_20\FormLop\FormLop\obj\Debug\FormLop.exe
 D:\110117051\LapTrinhUngDung\6. Buoi 06_03_20\FormLop\FormLop\obj\Debug\FormLop.pdb
+D:\110117051\LapTrinhUngDung\6. Buoi 06_03_20\FormLop\FormLop\obj\Debug\FormLop.FormSV.resources

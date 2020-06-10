@@ -40,7 +40,12 @@
             this.btnThoat = new System.Windows.Forms.Button();
             this.btnLuu = new System.Windows.Forms.Button();
             this.btnHuy = new System.Windows.Forms.Button();
+            this.menuStrip1 = new System.Windows.Forms.MenuStrip();
+            this.cậpNhậtToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.cậpNhậtLớpToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.cậpNhậtSinhViênToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             ((System.ComponentModel.ISupportInitialize)(this.dgv)).BeginInit();
+            this.menuStrip1.SuspendLayout();
             this.SuspendLayout();
             // 
             // label1
@@ -48,7 +53,7 @@
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label1.ForeColor = System.Drawing.Color.Red;
-            this.label1.Location = new System.Drawing.Point(94, 9);
+            this.label1.Location = new System.Drawing.Point(94, 35);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(279, 24);
             this.label1.TabIndex = 0;
@@ -57,7 +62,7 @@
             // label2
             // 
             this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(21, 67);
+            this.label2.Location = new System.Drawing.Point(21, 93);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(46, 13);
             this.label2.TabIndex = 0;
@@ -66,7 +71,7 @@
             // label3
             // 
             this.label3.AutoSize = true;
-            this.label3.Location = new System.Drawing.Point(21, 92);
+            this.label3.Location = new System.Drawing.Point(21, 118);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(50, 13);
             this.label3.TabIndex = 0;
@@ -74,14 +79,14 @@
             // 
             // txtMaLop
             // 
-            this.txtMaLop.Location = new System.Drawing.Point(73, 64);
+            this.txtMaLop.Location = new System.Drawing.Point(73, 90);
             this.txtMaLop.Name = "txtMaLop";
             this.txtMaLop.Size = new System.Drawing.Size(100, 20);
             this.txtMaLop.TabIndex = 1;
             // 
             // txtTenLop
             // 
-            this.txtTenLop.Location = new System.Drawing.Point(72, 89);
+            this.txtTenLop.Location = new System.Drawing.Point(72, 115);
             this.txtTenLop.Name = "txtTenLop";
             this.txtTenLop.Size = new System.Drawing.Size(101, 20);
             this.txtTenLop.TabIndex = 1;
@@ -92,7 +97,7 @@
             this.dgv.AllowUserToDeleteRows = false;
             this.dgv.AutoSizeColumnsMode = System.Windows.Forms.DataGridViewAutoSizeColumnsMode.Fill;
             this.dgv.AutoSizeRowsMode = System.Windows.Forms.DataGridViewAutoSizeRowsMode.DisplayedCells;
-            this.dgv.Location = new System.Drawing.Point(181, 60);
+            this.dgv.Location = new System.Drawing.Point(181, 86);
             this.dgv.Name = "dgv";
             this.dgv.ReadOnly = true;
             this.dgv.Size = new System.Drawing.Size(287, 182);
@@ -101,7 +106,7 @@
             // 
             // btnThem
             // 
-            this.btnThem.Location = new System.Drawing.Point(16, 129);
+            this.btnThem.Location = new System.Drawing.Point(16, 155);
             this.btnThem.Name = "btnThem";
             this.btnThem.Size = new System.Drawing.Size(75, 23);
             this.btnThem.TabIndex = 3;
@@ -111,7 +116,7 @@
             // 
             // btnXoa
             // 
-            this.btnXoa.Location = new System.Drawing.Point(97, 167);
+            this.btnXoa.Location = new System.Drawing.Point(97, 193);
             this.btnXoa.Name = "btnXoa";
             this.btnXoa.Size = new System.Drawing.Size(75, 23);
             this.btnXoa.TabIndex = 4;
@@ -121,7 +126,7 @@
             // 
             // btnSua
             // 
-            this.btnSua.Location = new System.Drawing.Point(16, 207);
+            this.btnSua.Location = new System.Drawing.Point(16, 233);
             this.btnSua.Name = "btnSua";
             this.btnSua.Size = new System.Drawing.Size(75, 23);
             this.btnSua.TabIndex = 3;
@@ -131,7 +136,7 @@
             // 
             // btnThoat
             // 
-            this.btnThoat.Location = new System.Drawing.Point(98, 207);
+            this.btnThoat.Location = new System.Drawing.Point(98, 233);
             this.btnThoat.Name = "btnThoat";
             this.btnThoat.Size = new System.Drawing.Size(75, 23);
             this.btnThoat.TabIndex = 4;
@@ -141,7 +146,7 @@
             // 
             // btnLuu
             // 
-            this.btnLuu.Location = new System.Drawing.Point(97, 129);
+            this.btnLuu.Location = new System.Drawing.Point(97, 155);
             this.btnLuu.Name = "btnLuu";
             this.btnLuu.Size = new System.Drawing.Size(75, 23);
             this.btnLuu.TabIndex = 5;
@@ -151,7 +156,7 @@
             // 
             // btnHuy
             // 
-            this.btnHuy.Location = new System.Drawing.Point(16, 167);
+            this.btnHuy.Location = new System.Drawing.Point(16, 193);
             this.btnHuy.Name = "btnHuy";
             this.btnHuy.Size = new System.Drawing.Size(75, 23);
             this.btnHuy.TabIndex = 6;
@@ -159,11 +164,44 @@
             this.btnHuy.UseVisualStyleBackColor = true;
             this.btnHuy.Click += new System.EventHandler(this.btnHuy_Click);
             // 
+            // menuStrip1
+            // 
+            this.menuStrip1.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.cậpNhậtToolStripMenuItem});
+            this.menuStrip1.Location = new System.Drawing.Point(0, 0);
+            this.menuStrip1.Name = "menuStrip1";
+            this.menuStrip1.Size = new System.Drawing.Size(478, 24);
+            this.menuStrip1.TabIndex = 7;
+            this.menuStrip1.Text = "menuStrip1";
+            // 
+            // cậpNhậtToolStripMenuItem
+            // 
+            this.cậpNhậtToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.cậpNhậtLớpToolStripMenuItem,
+            this.cậpNhậtSinhViênToolStripMenuItem});
+            this.cậpNhậtToolStripMenuItem.Name = "cậpNhậtToolStripMenuItem";
+            this.cậpNhậtToolStripMenuItem.Size = new System.Drawing.Size(67, 20);
+            this.cậpNhậtToolStripMenuItem.Text = "Cập nhật";
+            // 
+            // cậpNhậtLớpToolStripMenuItem
+            // 
+            this.cậpNhậtLớpToolStripMenuItem.Name = "cậpNhậtLớpToolStripMenuItem";
+            this.cậpNhậtLớpToolStripMenuItem.Size = new System.Drawing.Size(172, 22);
+            this.cậpNhậtLớpToolStripMenuItem.Text = "Cập nhật lớp";
+            this.cậpNhậtLớpToolStripMenuItem.Click += new System.EventHandler(this.cậpNhậtLớpToolStripMenuItem_Click);
+            // 
+            // cậpNhậtSinhViênToolStripMenuItem
+            // 
+            this.cậpNhậtSinhViênToolStripMenuItem.Name = "cậpNhậtSinhViênToolStripMenuItem";
+            this.cậpNhậtSinhViênToolStripMenuItem.Size = new System.Drawing.Size(172, 22);
+            this.cậpNhậtSinhViênToolStripMenuItem.Text = "Cập nhật sinh viên";
+            this.cậpNhậtSinhViênToolStripMenuItem.Click += new System.EventHandler(this.cậpNhậtSinhViênToolStripMenuItem_Click);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(480, 254);
+            this.ClientSize = new System.Drawing.Size(478, 285);
             this.Controls.Add(this.btnHuy);
             this.Controls.Add(this.btnLuu);
             this.Controls.Add(this.btnThoat);
@@ -176,9 +214,13 @@
             this.Controls.Add(this.label3);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
+            this.Controls.Add(this.menuStrip1);
+            this.MainMenuStrip = this.menuStrip1;
             this.Name = "Form1";
-            this.Text = "\\";
+            this.Text = "Cập nhật Lớp";
             ((System.ComponentModel.ISupportInitialize)(this.dgv)).EndInit();
+            this.menuStrip1.ResumeLayout(false);
+            this.menuStrip1.PerformLayout();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -198,6 +240,10 @@
         private System.Windows.Forms.Button btnThoat;
         private System.Windows.Forms.Button btnLuu;
         private System.Windows.Forms.Button btnHuy;
+        private System.Windows.Forms.MenuStrip menuStrip1;
+        private System.Windows.Forms.ToolStripMenuItem cậpNhậtToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem cậpNhậtLớpToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem cậpNhậtSinhViênToolStripMenuItem;
     }
 }
 
