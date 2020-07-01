@@ -1,0 +1,12 @@
+D:\110117051\LapTrinhUngDung\7. Buoi 17_06_20\QuanLyDiemSinhVien\QuanLyDiemSinhVien\bin\Debug\QuanLyDiemSinhVien.exe.config
+D:\110117051\LapTrinhUngDung\7. Buoi 17_06_20\QuanLyDiemSinhVien\QuanLyDiemSinhVien\bin\Debug\QuanLyDiemSinhVien.exe
+D:\110117051\LapTrinhUngDung\7. Buoi 17_06_20\QuanLyDiemSinhVien\QuanLyDiemSinhVien\bin\Debug\QuanLyDiemSinhVien.pdb
+D:\110117051\LapTrinhUngDung\7. Buoi 17_06_20\QuanLyDiemSinhVien\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.csprojResolveAssemblyReference.cache
+D:\110117051\LapTrinhUngDung\7. Buoi 17_06_20\QuanLyDiemSinhVien\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.Form1.resources
+D:\110117051\LapTrinhUngDung\7. Buoi 17_06_20\QuanLyDiemSinhVien\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.Properties.Resources.resources
+D:\110117051\LapTrinhUngDung\7. Buoi 17_06_20\QuanLyDiemSinhVien\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.csproj.GenerateResource.Cache
+D:\110117051\LapTrinhUngDung\7. Buoi 17_06_20\QuanLyDiemSinhVien\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.exe
+D:\110117051\LapTrinhUngDung\7. Buoi 17_06_20\QuanLyDiemSinhVien\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.pdb
+D:\110117051\LapTrinhUngDung\7. Buoi 17_06_20\QuanLyDiemSinhVien\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.Diem.resources
+D:\110117051\LapTrinhUngDung\7. Buoi 17_06_20\QuanLyDiemSinhVien\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.MonHoc.resources
+D:\110117051\LapTrinhUngDung\7. Buoi 17_06_20\QuanLyDiemSinhVien\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.SinhVien.resources
